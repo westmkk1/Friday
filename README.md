@@ -1,0 +1,1 @@
+Friday is my home automation system 
