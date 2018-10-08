@@ -2,6 +2,9 @@ import DeviceConnection
 import time
 import ServerInfo
 
+#A device that is either On or Off
+#Or a device that is in one position or another position
+#Only devices that have binary states
 class BinaryDevice:
 	
 	#Provide a connection to the device
